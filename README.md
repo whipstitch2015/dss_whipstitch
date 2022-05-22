@@ -7,5 +7,7 @@
 5. Quantifying Brand Perception Using Net Promoter Score (NPS)
 
 DSS Project Managers: Kartiki Gaur, Jasmine Wang
+
 DSS Consultants: Catherine Chu, James Gao, Aditya Krishnan, Nikhil Pitta, Aurelia Yang
+
 Whipstitch Project Lead: Sarika Pokala
