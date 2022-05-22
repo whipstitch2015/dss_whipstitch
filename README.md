@@ -6,8 +6,9 @@
 #### 4. Using Topic Modeling to Quantify Brand's Perception in Data Generalized Categories
 #### 5. Quantifying Brand Perception Using Net Promoter Score (NPS)
 
-DSS Project Managers: Kartiki Gaur, Jasmine Wang
 
-DSS Consultants: Catherine Chu, James Gao, Aditya Krishnan, Nikhil Pitta, Aurelia Yang
+*DSS Project Managers: Kartiki Gaur, Jasmine Wang
 
-Whipstitch Project Lead: Sarika Pokala
+*DSS Consultants: Catherine Chu, James Gao, Aditya Krishnan, Nikhil Pitta, Aurelia Yang
+
+*Whipstitch Project Lead: Sarika Pokala
